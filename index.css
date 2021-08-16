@@ -1,0 +1,33 @@
+h2 {
+  padding: 20px;
+  margin: 0px;
+}
+
+h2.merah {
+  background-color: red;
+  color: white;
+}
+h2.jingga {
+  background-color: brown;
+  color: white;
+}
+h2.kuning {
+  background-color: yellow;
+  color: black;
+}
+h2.hijau {
+  background-color: green;
+  color: white;
+}
+h2.biru {
+  background-color: blue;
+  color: white;
+}
+h2.nila {
+  background-color: darkslateblue;
+  color: white;
+}
+h2.ungu {
+  background-color: blueviolet;
+  color: white;
+}
